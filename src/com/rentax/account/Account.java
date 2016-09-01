@@ -18,12 +18,11 @@ import lombok.Setter;
 
 @Entity
 @Inheritance(strategy=InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name="account_type")
 @Getter @Setter @AllArgsConstructor @NoArgsConstructor
 @EqualsAndHashCode(of="id")
-@DiscriminatorColumn(name="account_type")
 public class Account implements Serializable {
 
-	
 	private static final long serialVersionUID = 1L;
 
 	@Id

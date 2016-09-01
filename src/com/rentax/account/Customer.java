@@ -7,7 +7,6 @@ import javax.persistence.Entity;
 @DiscriminatorValue(value="CUSTOMER")
 public class Customer extends Account {
 
-	
 	private String creditCard;
 	
 	
