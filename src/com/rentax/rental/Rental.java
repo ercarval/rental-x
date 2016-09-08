@@ -24,6 +24,5 @@ public class Rental {
 	private DateRange period;
 	
 	
-	pri
 	
 }
