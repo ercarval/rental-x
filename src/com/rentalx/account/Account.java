@@ -1,4 +1,4 @@
-package com.rentax.account;
+package com.rentalx.account;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.rentax.rental;
+package com.rentalx.rental;
 
 public class PriceList {
 

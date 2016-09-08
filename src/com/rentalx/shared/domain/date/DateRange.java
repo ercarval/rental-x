@@ -1,4 +1,4 @@
-package com.rentax.shared.domain.date;
+package com.rentalx.shared.domain.date;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.rentax.rental;
+package com.rentalx.rental;
 
 import javax.persistence.Embedded;
 import javax.persistence.Entity;
@@ -7,8 +7,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-import com.rentax.account.Customer;
-import com.rentax.shared.domain.date.DateRange;
+import com.rentalx.account.Customer;
+import com.rentalx.shared.domain.date.DateRange;
 
 @Entity
 public class Rental {

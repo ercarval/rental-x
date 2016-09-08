@@ -1,4 +1,4 @@
-package com.rentax.shared.repository;
+package com.rentalx.shared.repository;
 
 import java.io.Serializable;
 import java.util.List;

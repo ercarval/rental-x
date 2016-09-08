@@ -1,4 +1,4 @@
-package com.rentax.account;
+package com.rentalx.account;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
