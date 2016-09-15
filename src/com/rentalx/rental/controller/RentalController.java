@@ -9,7 +9,7 @@ public class RentalController {
 
 	@RequestMapping(path="/")
 	public String home () {
-		return "home";
+		return "rental/home";
 	}
 	
 }
